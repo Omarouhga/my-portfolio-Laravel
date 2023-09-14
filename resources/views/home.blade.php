@@ -1,0 +1,9 @@
+<x-app-layout>
+  <x-home.hero></x-home.hero>
+  <x-home.about></x-home.about>
+  <x-home.education></x-home.education>
+  <x-home.experience></x-home.experience>
+  <x-home.portfolio></x-home.portfolio>
+  <x-home.ma-formation></x-home.ma-formation>
+  <x-home.contact></x-home.contact>
+</x-app-layout>
